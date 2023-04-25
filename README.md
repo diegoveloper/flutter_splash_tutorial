@@ -11,7 +11,8 @@ My social networks:
 
 Result
 
-[![](assets/challenge.gif)](https://www.youtube.com/watch?v=E2uufJ7mOZc )
+https://user-images.githubusercontent.com/4898256/234185596-54e48226-1375-4da5-bf86-1392a8e7d431.mov
+
 
 ## If you like the code, don't forget to star it :)
 
